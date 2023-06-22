@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **notmanshi/notmanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mansipls) 
 
 
--->
+
