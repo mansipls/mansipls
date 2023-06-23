@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning Front end development
 - 👯 I’m looking to collaborate on Front end development
-- 💬 Ask me about Algorithms,Web Development, DSA
+- 💬 Ask me about Algorithms, Web Development, DSA
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mansipls) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mansipatelkm) 
